@@ -1,0 +1,3 @@
+mounts:
+  /:
+    target: "1FqUz5CZ_uDVI73OvYnTLJoRMd2hc9hg9"  # Google Drive folder ID
