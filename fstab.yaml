@@ -1,3 +1,2 @@
-mounts:
-  /:
-    target: "1FqUz5CZ_uDVI73OvYnTLJoRMd2hc9hg9"
+mountpoints:
+  /: https://drive.google.com/drive/folders/1FqUz5CZ_uDVI73OvYnTLJoRMd2hc9hg9
