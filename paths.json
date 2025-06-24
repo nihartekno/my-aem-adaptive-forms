@@ -3,6 +3,8 @@
     "/:/"
   ],
   "includes": [
+    "/nav.plain.html",
+    "/footer.plain.html",
     "/content/",
     "/content/dam/"
   ]
